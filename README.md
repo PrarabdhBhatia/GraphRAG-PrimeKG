@@ -78,7 +78,7 @@ Graph topology reveals highly connected nodes (e.g., Quinidine), sparse subgraph
 | 277     | Stockholm Syndrome   |
 | 387     | Nervous Breakdown    |
 
-> **Most connected node:** Quinidine (2600+ links), indicating centrality in the network.
+> **Most connected node:** ATF4 (gene/protein): 17460 connections, indicating centrality in the network.
 
 ---
 
