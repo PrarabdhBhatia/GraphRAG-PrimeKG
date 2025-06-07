@@ -1,4 +1,4 @@
-# 🧠 Medical Knowledge Graph and Conversational AI for Fifty Plus Health
+# Medical Knowledge Graph and Conversational AI for Fifty Plus Health
 
 ---
 
@@ -51,7 +51,7 @@ The knowledge graph is intended to act as a **pseudo-medical professional** for 
 
 ---
 
-## 🔍5. Thinking Through the Analytics
+## 5. Thinking Through the Analytics
 
 ### **Data**
 - **Data Source:** PrimeKG open dataset
